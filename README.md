@@ -1,4 +1,4 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+7          <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
@@ -14,7 +14,6 @@
   </a>  
   
 - 👋 Hi, I’m Adel
-- 💼 I'm a Fullstack developer at Entekhab group
 - 💬 Talk to me about freelancing opportunities in software engineering
 - 👯 I’m looking to collaborate on backend software engineering projects
 
